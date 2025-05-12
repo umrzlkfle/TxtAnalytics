@@ -1,0 +1,4 @@
+Topic 0: 0.023*"government" + 0.012*"armenian" + 0.012*"president" + 0.009*"american" + 0.007*"new" + 0.007*"agency" + 0.007*"administration" + 0.007*"year" + 0.006*"israel" + 0.006*"state"
+Topic 1: 0.013*"would" + 0.012*"people" + 0.011*"one" + 0.007*"know" + 0.007*"think" + 0.007*"right" + 0.006*"say" + 0.006*"could" + 0.006*"time" + 0.006*"like"
+Topic 2: 0.028*"key" + 0.014*"encryption" + 0.014*"chip" + 0.013*"system" + 0.012*"db" + 0.012*"use" + 0.009*"information" + 0.009*"clipper" + 0.008*"privacy" + 0.007*"file"
+Topic 3: 0.110*"q" + 0.066*"1" + 0.051*"x" + 0.050*"0" + 0.045*"n" + 0.039*"2" + 0.038*"e" + 0.027*"k" + 0.026*"3" + 0.025*"4"
